@@ -1,6 +1,6 @@
 # Snake Game with SFML
 
-This is a classic snake game implemented in C++ using the SFML library. It provides a fun and engaging gaming experience for players of all ages.
+This is a classic snake game implemented in C++ using the SFML library.
 
 ## Screenshots
 
